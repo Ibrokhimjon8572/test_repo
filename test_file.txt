@@ -6,4 +6,186 @@ test for function
   ebds
   fg 
   sfgb
-  sdgfg
+  sdgfg 6304  unzip 4-savol.zip
+ 6305  python3 1.py
+ 6306  python3 2.py
+ 6307  python3 3.py
+ 6308  python3 savol_1.py
+ 6309  python3 savol_2.py
+ 6310  python3 1.py
+ 6311  python3 main.py
+ 6312  python3 test.py
+ 6313  python3 main.py
+ 6314  python3 savol_2.py
+ 6315  python3 savol_1.py
+ 6316  cd ..
+ 6317  ls -a
+ 6318  cd Library
+ 6319  ls -a
+ 6320  cd PostgreSQL
+ 6321  ls -a
+ 6322  cd 16
+ 6323  ls -a
+ 6324  cd pgAdmin\ 4.app
+ 6325  ls -a
+ 6326  cd Contents
+ 6327  ls -a
+ 6328  cd Resources
+ 6329  ls -a
+ 6330  cd ...
+ 6331  ls -a
+ 6332  cd 16
+ 6333  ls -a
+ 6334  cd lip
+ 6335  cd ..
+ 6336  ls -a
+ 6337  cd Preferences
+ 6338  ls -a
+ 6339  psql postgres
+ 6340  /Library/PostgreSQL/16/scripts/runpsql.sh; exit
+ 6341  source env/bin/activate
+ 6342  python manage.py runserver
+ 6343  python manage.py makemigrations
+ 6344  clear
+ 6345  python manage.py runserver
+ 6346  clear
+ 6347  rm db.sqlite3
+ 6348  python manage.py makemigrations
+ 6349  python manage.py makemigrations blog
+ 6350  gaa
+ 6351  python manage.py migrate
+ 6352  python manage.py runserver
+ 6353  python manage.py createsuperuser
+ 6354  clear
+ 6355  python manage.py runserver
+ 6356  .ssh
+ 6357  ssh -i kyokushin-otabek ubuntu@54.236.178.152
+ 6358  cd .ssh
+ 6359  ssh -i kyokushin-otabek ubuntu@54.236.178.152
+ 6360  python manage.py makemigrations blog
+ 6361  pip install psycopg2
+ 6362  pip install psycopg2-binary
+ 6363  python manage.py makemigrations blog
+ 6364  psql
+ 6365  cd ..
+ 6366  psql
+ 6367  /Library/PostgreSQL/16/scripts/runpsql.sh; exit
+ 6368  python manage.py makemigrations
+ 6369  python manage.py makemigrations blog
+ 6370  python manage.py migrate
+ 6371  python manage.py runserver
+ 6372  python manage.py createsuperuser
+ 6373  python manage.py run
+ 6374  python manage.py runserver
+ 6375  python3 ..py
+ 6376  python3 test.py
+ 6377  /opt/homebrew/bin/python3
+ 6378  python3 test.py
+ 6379  cd kutubxona
+ 6380  ls -a
+ 6381  python3 main.py
+ 6382  code .
+ 6383  python3 main.py
+ 6384  cd ..
+ 6385  mkdir sotuvmashinasi
+ 6386  cd sotuvmashinasi
+ 6387  code .
+ 6388  /usr/local/microsoft/powershell/7/pwsh ; exit;
+ 6389  psql
+ 6390  sql
+ 6391  psql
+ 6392  histor
+ 6393  history
+ 6394  exit
+ 6395  /Library/PostgreSQL/16/scripts/runpsql.sh; exit
+ 6396  psql
+ 6397  /Library/PostgreSQL/16/scripts/runpsql.sh; exit
+ 6398  /Library/PostgreSQL/16/scripts/runpsql.sh
+ 6399  clear
+ 6400  /Library/PostgreSQL/16/scripts/runpsql.sh
+ 6401  source env/bin/activate
+ 6402  python manage.py runserver
+ 6403  code .
+ 6404  source env/bin/activate
+ 6405  python manage.py runserver
+ 6406  python manage.py makemigrations
+ 6407  python manage.py makemigrations projects
+ 6408  python manage.py migrate
+ 6409  python manage.py runserver
+ 6410  python manage.py collectstatic
+ 6411  python manage.py runserver
+ 6412  python manage.py collectstatic
+ 6413  /Library/PostgreSQL/16/scripts/runpsql.sh; exit
+ 6414  /usr/local/microsoft/powershell/7/pwsh ; exit;
+ 6415  ls -a
+ 6416  cd ...
+ 6417  ls -a
+ 6418  cd /usr/local/microsoft/powershell/7/pwsh
+ 6419  history
+ 6420  /Library/PostgreSQL/16/scripts/runpsql.sh
+ 6421  la -a
+ 6422  ls -a
+ 6423  cd Users/ibrohimjon/NajotTalim/N17PythonDjango
+ 6424  ls -a
+ 6425  cat data\ copy.txt
+ 6426  python3 2savol.py
+ 6427  source /Users/ibrohimjon/python/python_projects/devsearch/env/bin/activate
+ 6428  python manage.py runserver
+ 6429  deactivate
+ 6430  cd ..
+ 6431  git clone https://github.com/h4cktivist/devSearch.git
+ 6432  mkdir app
+ 6433  cd app
+ 6434  git clone https://github.com/h4cktivist/devSearch.git
+ 6435  cd devSearch
+ 6436  virtualenv env
+ 6437  code .
+ 6438  source env/bin/activate
+ 6439  pip install requirements.txt
+ 6440  pip install -r requirements.txt
+ 6441  pip install psycopg2-binary
+ 6442  pip install -r requirements.txt
+ 6443  pip freeze > requirements.txt
+ 6444  python manage.py makemigrations
+ 6445  cd ..
+ 6446  rm rf app
+ 6447  rm -rf app
+ 6448  code .
+ 6449  source env/bin/activate
+ 6450  docker compose up -d --build
+ 6451  .ssh
+ 6452  cd ..
+ 6453  .ssh
+ 6454  ssh -i kyokushin-otabek ubuntu@54.236.178.152
+ 6455  .ssh
+ 6456  ssh -i kyokushin-otabek ubuntu@54.236.178.152
+ 6457  /opt/homebrew/bin/python3
+ 6458  python3 main.py
+ 6459  /opt/homebrew/bin/python3
+ 6460  python3 main.py
+ 6461  cd ..
+ 6462  psql 
+ 6463  /Library/PostgreSQL/16/scripts/runpsql.sh
+ 6464  code .
+ 6465  source env/bin/activate
+ 6466  ls -a
+ 6467  docker compose up -d --build
+ 6468  ls -a
+ 6469  cd NajotTalim
+ 6470  cd N15PythonDjango
+ 6471  ls -a
+ 6472  mkdir test_app
+ 6473  cd test_app
+ 6474  code .
+ 6475  git init
+ 6476  git commit -m "test_repo"
+ 6477  gaa
+ 6478  git commit -m "test_repo"
+ 6479  gaa
+ 6480  git commit -m "srt uo git commit"
+ 6481* git remote add origin https://github.com/Ibrokhimjon8572/test_repo.git
+ 6482* ggpush
+
+
+
+ 
