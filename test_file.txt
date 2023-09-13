@@ -141,47 +141,25 @@ test for function
  6436  virtualenv env
  6437  code .
  6438  source env/bin/activate
- 6439  pip install requirements.txt
- 6440  pip install -r requirements.txt
- 6441  pip install psycopg2-binary
- 6442  pip install -r requirements.txt
- 6443  pip freeze > requirements.txt
- 6444  python manage.py makemigrations
- 6445  cd ..
- 6446  rm rf app
- 6447  rm -rf app
- 6448  code .
- 6449  source env/bin/activate
- 6450  docker compose up -d --build
- 6451  .ssh
- 6452  cd ..
- 6453  .ssh
- 6454  ssh -i kyokushin-otabek ubuntu@54.236.178.152
- 6455  .ssh
- 6456  ssh -i kyokushin-otabek ubuntu@54.236.178.152
- 6457  /opt/homebrew/bin/python3
- 6458  python3 main.py
- 6459  /opt/homebrew/bin/python3
- 6460  python3 main.py
- 6461  cd ..
- 6462  psql 
- 6463  /Library/PostgreSQL/16/scripts/runpsql.sh
- 6464  code .
- 6465  source env/bin/activate
- 6466  ls -a
- 6467  docker compose up -d --build
- 6468  ls -a
- 6469  cd NajotTalim
- 6470  cd N15PythonDjango
- 6471  ls -a
- 6472  mkdir test_app
- 6473  cd test_app
- 6474  code .
- 6475  git init
- 6476  git commit -m "test_repo"
- 6477  gaa
- 6478  git commit -m "test_repo"
- 6479  gaa
+
+vd
+fv
+df
+vd
+
+
+
+vdfv
+dfv
+
+
+
+vdfvdfvd
+vdfvdfvddf
+vd
+dfvd
+fvdf
+vd
 
 
 
