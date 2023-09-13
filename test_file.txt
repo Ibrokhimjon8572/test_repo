@@ -182,9 +182,6 @@ test for function
  6477  gaa
  6478  git commit -m "test_repo"
  6479  gaa
- 6480  git commit -m "srt uo git commit"
- 6481* git remote add origin https://github.com/Ibrokhimjon8572/test_repo.git
- 6482* ggpush
 
 
 
